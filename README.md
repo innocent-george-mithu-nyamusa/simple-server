@@ -1,2 +1,3 @@
-<h1 style="{text-tranform: bold; color: light-green; text-size: 30px;}">Simple Multithreaded Server</h1>
-<h2 style="{color: light-green;}">Implemented In C</h2>
+<h1 style="{text-tranform: bold; color: lime; text-size: 30px;}">Simple Multithreaded Server</h1>
+<hr style="{color: lime}">
+<h2 style="{color: blue;}">Implemented In C</h2>
